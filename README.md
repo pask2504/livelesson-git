@@ -8,12 +8,6 @@ git add
 
 git push
 
-cd
-
-cd
-
-cd
-
 # working from remotes
 
 # branch title
