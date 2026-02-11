@@ -16,6 +16,6 @@ cd
 
 # working from remotes
 
-# branch n1
+# branch title
 
 I'm in the first branch, hello|
