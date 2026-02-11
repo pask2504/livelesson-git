@@ -1,3 +1,5 @@
+# Git notes for local work
+
 Hello! This is the first text!
 
 Qui non è Napoli
@@ -16,3 +18,5 @@ cd
 cd
 
 cd
+
+# working from remotes
