@@ -2,6 +2,8 @@
 
 Hi! Buongiorno! 
 
+Bonjour!
+
 Hello! This is the first text!
 
 git remote
