@@ -1,5 +1,7 @@
 # Git notes for local work
 
+Hi! Buongiorno! 
+
 Hello! This is the first text!
 
 git remote
