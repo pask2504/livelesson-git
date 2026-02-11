@@ -37,6 +37,7 @@ cccccccccccc
 # eeeeeeeeee
 
 eeeeeeeeeeee
+<<<<<<< HEAD
 
 # ffffffffff
 
@@ -44,4 +45,4 @@ ffffffffffff
 
 # gggggggggg
 
-gggggggggggg
+ggggggggggg
