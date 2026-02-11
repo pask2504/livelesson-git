@@ -19,3 +19,5 @@ cd
 # branch title
 
 I'm in the first branch, hello|
+
+Second text!
