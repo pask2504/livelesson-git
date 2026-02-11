@@ -9,3 +9,15 @@ lalalalalalalalala
 lalalalalalalalala
 quando te ne vai
 quando te ne vai
+
+git remote
+
+git add 
+
+git push
+
+cd
+
+cd
+
+cd
